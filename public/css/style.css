@@ -128,6 +128,10 @@ ul {
   padding-bottom: 200px;
 }
 
+.connexion {
+  background-color: #424a51;
+}
+
 #discover {
   background-image: url("../../public/img/cta-bg.jpg");
 }
